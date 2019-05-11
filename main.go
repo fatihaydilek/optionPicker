@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gitlab.com/optionPicker/opts"
+	"github.com/fatihaydilek/optionPicker/opts"
 )
 
 func main() {
